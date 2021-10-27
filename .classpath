@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bytebank-composto/src"/>
+	<classpathentry kind="src" path="controlando-fluxos-com-lacos/src"/>
+	<classpathentry kind="src" path="oop/src"/>
+	<classpathentry kind="src" path="praticando-condicionais/src"/>
+	<classpathentry kind="src" path="tipos-e-variaveis/src"/>
+	<classpathentry kind="src" path="trabalhando-com-caracteres/src"/>
+	<classpathentry kind="output" path="bytebank-composto/bin"/>
+</classpath>
